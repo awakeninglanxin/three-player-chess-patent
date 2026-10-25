@@ -1,0 +1,159 @@
+<svg viewBox="0 0 680 640" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" font-family="system-ui,-apple-system,Segoe UI,sans-serif">
+<title>例③ M6 的完整走线</title>
+<desc>吴车在 M6 沿吴列4 到前沿，过河接魏列6（魏图4线）</desc>
+
+<path d="M 488.3 556.8 L 636.5 300.0 L 488.3 43.2 L 191.7 43.2 L 43.5 300.0 L 191.7 556.8 L 488.3 556.8" fill="none" stroke="#5F5E5A" stroke-width="1.2" opacity="1.0" stroke-linecap="round"/>
+<circle cx="488.3" cy="556.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="451.2" cy="556.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="414.1" cy="556.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="377.1" cy="556.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="340.0" cy="556.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="302.9" cy="556.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="265.9" cy="556.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="228.8" cy="556.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="191.7" cy="556.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="504.7" cy="528.3" r="1.4" fill="#B4B2A9"/>
+<circle cx="463.6" cy="522.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="422.4" cy="516.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="381.2" cy="510.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="340.0" cy="504.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="298.8" cy="510.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="257.6" cy="516.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="216.4" cy="522.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="175.3" cy="528.3" r="1.4" fill="#B4B2A9"/>
+<circle cx="521.2" cy="499.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="475.9" cy="487.9" r="1.4" fill="#B4B2A9"/>
+<circle cx="430.5" cy="476.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="385.3" cy="464.3" r="1.4" fill="#B4B2A9"/>
+<circle cx="340.0" cy="452.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="294.7" cy="464.3" r="1.4" fill="#B4B2A9"/>
+<circle cx="249.4" cy="476.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="204.1" cy="487.9" r="1.4" fill="#B4B2A9"/>
+<circle cx="158.8" cy="499.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="537.7" cy="471.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="488.3" cy="453.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="438.8" cy="435.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="389.4" cy="418.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="340.0" cy="400.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="290.6" cy="418.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="241.2" cy="435.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="191.7" cy="453.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="142.3" cy="471.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="554.2" cy="442.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="500.6" cy="419.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="447.1" cy="395.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="393.5" cy="371.9" r="1.4" fill="#B4B2A9"/>
+<circle cx="340.0" cy="348.3" r="1.4" fill="#B4B2A9"/>
+<circle cx="286.5" cy="371.9" r="1.4" fill="#B4B2A9"/>
+<circle cx="232.9" cy="395.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="179.4" cy="419.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="125.8" cy="442.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="43.5" cy="300.0" r="1.4" fill="#B4B2A9"/>
+<circle cx="62.0" cy="267.9" r="1.4" fill="#B4B2A9"/>
+<circle cx="80.5" cy="235.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="99.1" cy="203.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="117.6" cy="171.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="136.1" cy="139.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="154.7" cy="107.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="173.2" cy="75.3" r="1.4" fill="#B4B2A9"/>
+<circle cx="191.7" cy="43.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="59.9" cy="328.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="85.7" cy="295.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="111.4" cy="263.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="137.1" cy="230.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="162.8" cy="197.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="178.2" cy="159.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="193.7" cy="120.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="209.2" cy="81.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="224.7" cy="43.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="76.4" cy="357.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="109.3" cy="323.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="141.9" cy="290.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="175.0" cy="257.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="207.9" cy="223.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="220.3" cy="178.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="232.8" cy="133.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="245.2" cy="88.3" r="1.4" fill="#B4B2A9"/>
+<circle cx="257.6" cy="43.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="92.9" cy="385.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="132.9" cy="351.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="173.0" cy="317.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="213.0" cy="283.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="253.1" cy="249.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="262.4" cy="198.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="271.8" cy="146.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="281.2" cy="94.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="290.6" cy="43.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="109.4" cy="414.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="156.6" cy="379.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="203.8" cy="345.0" r="1.4" fill="#B4B2A9"/>
+<circle cx="251.0" cy="310.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="298.2" cy="275.9" r="1.4" fill="#B4B2A9"/>
+<circle cx="304.5" cy="217.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="310.9" cy="159.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="317.2" cy="101.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="323.5" cy="43.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="488.3" cy="43.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="506.8" cy="75.3" r="1.4" fill="#B4B2A9"/>
+<circle cx="525.3" cy="107.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="543.9" cy="139.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="562.4" cy="171.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="580.9" cy="203.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="599.5" cy="235.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="618.0" cy="267.9" r="1.4" fill="#B4B2A9"/>
+<circle cx="636.5" cy="300.0" r="1.4" fill="#B4B2A9"/>
+<circle cx="455.3" cy="43.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="470.8" cy="81.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="486.3" cy="120.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="501.8" cy="159.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="517.2" cy="197.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="542.9" cy="230.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="568.6" cy="263.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="594.3" cy="295.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="620.1" cy="328.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="422.4" cy="43.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="434.8" cy="88.3" r="1.4" fill="#B4B2A9"/>
+<circle cx="447.6" cy="133.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="459.7" cy="178.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="472.1" cy="223.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="505.0" cy="257.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="537.8" cy="290.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="570.7" cy="323.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="603.6" cy="357.1" r="1.4" fill="#B4B2A9"/>
+<circle cx="389.4" cy="43.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="398.8" cy="94.9" r="1.4" fill="#B4B2A9"/>
+<circle cx="408.2" cy="146.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="417.6" cy="198.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="426.9" cy="249.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="467.0" cy="283.8" r="1.4" fill="#B4B2A9"/>
+<circle cx="507.0" cy="317.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="547.1" cy="351.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="587.1" cy="385.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="356.5" cy="43.2" r="1.4" fill="#B4B2A9"/>
+<circle cx="362.8" cy="101.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="369.1" cy="159.5" r="1.4" fill="#B4B2A9"/>
+<circle cx="375.5" cy="217.7" r="1.4" fill="#B4B2A9"/>
+<circle cx="381.8" cy="275.9" r="1.4" fill="#B4B2A9"/>
+<circle cx="429.0" cy="310.4" r="1.4" fill="#B4B2A9"/>
+<circle cx="476.2" cy="345.0" r="1.4" fill="#B4B2A9"/>
+<circle cx="523.4" cy="379.6" r="1.4" fill="#B4B2A9"/>
+<circle cx="570.6" cy="414.1" r="1.4" fill="#B4B2A9"/>
+<path d="M 99.1 203.7 L 137.1 230.4 L 175.0 257.1 L 213.0 283.8 L 251.0 310.4" fill="none" stroke="#1D9E75" stroke-width="3.2" opacity="1.0" stroke-linecap="round"/>
+<path d="M 251.0 310.4 L 286.5 371.9" fill="none" stroke="#0F6E56" stroke-width="3.2" stroke-dasharray="7 5" opacity="1.0" stroke-linecap="round"/>
+<path d="M 286.5 371.9 L 290.6 418.1 L 294.7 464.3 L 298.8 510.6 L 302.9 556.8" fill="none" stroke="#A32D2D" stroke-width="3.2" opacity="1.0" stroke-linecap="round"/>
+<path d="M 76.4 357.1 L 109.3 323.7 L 141.9 290.2 L 175.0 257.1 L 207.9 223.7 L 220.3 178.6 L 232.8 133.5 L 245.2 88.3 L 257.6 43.2" fill="none" stroke="#C0DD97" stroke-width="2.4" opacity="1.0" stroke-linecap="round"/>
+<circle cx="175.0" cy="257.1" r="6" fill="#0F6E56"/>
+<text x="190.0" y="247.1" fill="#0F6E56" font-size="12.5" font-weight="500" text-anchor="start">M6 = 234</text>
+<circle cx="251.0" cy="310.4" r="5" fill="#0F6E56"/>
+<text x="239.0" y="316.4" fill="#0F6E56" font-size="12.5" font-weight="500" text-anchor="end">254 前沿</text>
+<circle cx="286.5" cy="371.9" r="5" fill="#A32D2D"/>
+<text x="299.5" y="367.9" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="start">156</text>
+<circle cx="340.0" cy="556.8" r="5" fill="#A32D2D"/>
+<text x="364.0" y="558.8" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="start">魏图4线(116…156)</text>
+<text x="262.7" y="357.1" fill="#0F6E56" font-size="12" font-weight="500" text-anchor="end">过河 24.9</text>
+<rect x="40" y="16" width="600" height="64" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
+<text x="52" y="42" fill="#2C2C2A" font-size="12.5" font-weight="500">M6 在图上的数字是 6，自身列是「列4」；6+4=10 → 对应魏的 4 线＝魏列6（116…156）</text>
+<text x="52" y="58" fill="#0F6E56" font-size="12.5" font-weight="500">走线：234 →244 →254（吴前沿）→ 过河 →156 →146 →136 →126 →116，吃路上第一个挡子</text>
+<text x="52" y="74" fill="#5F5E5A" font-size="12.5" font-weight="400">浅绿＝吴行M（行3）的横向线，有折角；本走线不用它，只用「列」方向</text>
+<text x="340" y="620" fill="#5F5E5A" font-size="12" text-anchor="middle">吴列4 与 魏列6 在 DXF 里没有画连线；过河段是网格构造自带的方向（−60°）</text>
+</svg>

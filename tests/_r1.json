@@ -1,0 +1,1 @@
+{"level": 4, "name": "大师", "plies": 9, "brief": "9 plies", "desc": "预判 9 plies（两个对手各想 3 步）。实测开局 2.6 秒/步、中局 0.6 秒/步 —— numba 内核接入后比加速前快约 10 倍，**不必再等几十秒**，适合当主力陪练。", "depth": 3, "time_limit": 45.0, "ok": true, "skipped": []}

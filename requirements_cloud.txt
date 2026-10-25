@@ -1,0 +1,27 @@
+# 三人象棋 · 云端（AutoDL）依赖
+#
+# 全部第三方依赖只有 **3 个**：numpy / numba / torch。没有别的。
+#   （规则引擎与 Bot 其余全是标准库）
+#
+# ⚠️⚠️ 三条必须遵守的版本纪律
+#
+# ① **numba 必须 0.65.0**
+#    `engine/nb_core.py` 里有 20+ 个 njit 内核，且是**双实现**（Python 版 + JIT 版），
+#    由 `tests/_verify_numba_parity.py`（3517 项）逐位对拍。
+#    换 numba 版本可能改变浮点规约顺序 / 内联行为 ⇒ 两边不再逐位一致 ⇒ 对拍全红。
+#    另外 `nb_core` 的 njit **一律不加 cache=True**（递归 njit + 磁盘缓存 = 读缓存必 SEGV，
+#    见该文件顶部说明）⇒ 每个新进程都要重编译，这跟 numba 版本也强相关。
+#
+# ② **numpy 必须 2.4.3**
+#    numba 0.65 对 numpy 版本有硬性区间；且 `features_dxf` 的向量化结果要
+#    与本机逐位可比（否则云端训的权重拿回本机，特征口径就不一致了）。
+#
+# ③ **torch 不要在这里装**
+#    AutoDL 的 PyTorch 镜像**自带 CUDA 版 torch**。在这里再 pip install torch
+#    会把 CUDA 版覆盖成 CPU 版（或版本错配），GPU 直接失效。
+#    要确认 GPU 可用：`python -c "import torch;print(torch.__version__, torch.cuda.is_available())"`
+#
+# Python 版本：3.10 ~ 3.13 均可（本机是 3.12.2）。
+
+numpy==2.4.3
+numba==0.65.0

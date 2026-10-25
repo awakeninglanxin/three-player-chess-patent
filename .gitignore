@@ -1,0 +1,60 @@
+# ---- Python ----
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+# ---- numba 磁盘缓存（本项目已全面禁用 @njit(cache=True)：
+#      递归 njit + cache ⇒ 读回缓存必 Segmentation fault，见 docs 里的坑记录）----
+*.nbi
+*.nbc
+
+# ---- 续局存档（运行时数据，不进仓库）----
+#   每手落盘的位置：server/data/autosave.json
+#   老师本机的对局进度属于"本地运行态"，推到 GitHub 没有意义（而且带着他的棋谱）
+server/data/autosave.json
+server/data/autosave.json.tmp
+server/data/autosave.json.bad_*
+server/data/*.bak*
+
+# ---- 本地配置备份（含老师配好的模型名/密钥引用，不上传）----
+server/agents/agents.json.bak_*
+*.bat.bak_*
+*.bak_before_guard
+
+# ---- 测试产物 / 门禁输出 ----
+tests/_state.json
+tests/_*.txt
+tests/_board_labels_out/
+tests/_final_gate*.txt
+# 视觉自查截图（tests/_shot_tri.js / _render_trail_preview.js 的产物）：
+#   这类图是"给眼睛看"的，随代码变、体积大，不入库。
+tests/_*.png
+
+# ---- 编辑器 / 系统 ----
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---- 临时文件 ----
+*.tmp
+~$*
+
+# ---- 云端训练归档（体积 264 MB，不进仓库）----
+#   其中 _云端成果_20261002/data/selfplay_150k.npz 单个 129.4 MB，
+#   已超 GitHub 单文件 100 MB 硬限 —— 不排除的话 push 会被直接拒绝。
+#   这三个目录在本机保留，用途与内容见 docs/云端训练线_收场报告_20261002.md。
+_云端成果_20261002/
+_云端成果_sp2_增量/
+_对照实验/
+
+# ---- 调试遗留的状态快照 / 打包产物 ----
+st3.json
+st4.json
+st5.json
+state_tmp.json
+state_tmp2.json
+dist/

@@ -1,0 +1,194 @@
+<svg viewBox="0 0 680 640" width="100%" xmlns="http://www.w3.org/2000/svg" role="img" font-family="system-ui,-apple-system,Segoe UI,sans-serif">
+<title>三人象棋坐标体系</title>
+<desc>行字母 A 到 O、底边数字 1 到 9、行线在列 5 的折角</desc>
+
+<path d="M 488.3 556.8 L 636.5 300.0 L 488.3 43.2 L 191.7 43.2 L 43.5 300.0 L 191.7 556.8 L 488.3 556.8" fill="none" stroke="#5F5E5A" stroke-width="1.2" opacity="1.0" stroke-linecap="round"/>
+<circle cx="488.3" cy="556.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="451.2" cy="556.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="414.1" cy="556.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="377.1" cy="556.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="340.0" cy="556.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="302.9" cy="556.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="265.9" cy="556.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="228.8" cy="556.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="191.7" cy="556.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="504.7" cy="528.3" r="1.5" fill="#B4B2A9"/>
+<circle cx="463.6" cy="522.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="422.4" cy="516.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="381.2" cy="510.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="340.0" cy="504.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="298.8" cy="510.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="257.6" cy="516.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="216.4" cy="522.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="175.3" cy="528.3" r="1.5" fill="#B4B2A9"/>
+<circle cx="521.2" cy="499.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="475.9" cy="487.9" r="1.5" fill="#B4B2A9"/>
+<circle cx="430.5" cy="476.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="385.3" cy="464.3" r="1.5" fill="#B4B2A9"/>
+<circle cx="340.0" cy="452.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="294.7" cy="464.3" r="1.5" fill="#B4B2A9"/>
+<circle cx="249.4" cy="476.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="204.1" cy="487.9" r="1.5" fill="#B4B2A9"/>
+<circle cx="158.8" cy="499.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="537.7" cy="471.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="488.3" cy="453.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="438.8" cy="435.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="389.4" cy="418.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="340.0" cy="400.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="290.6" cy="418.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="241.2" cy="435.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="191.7" cy="453.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="142.3" cy="471.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="554.2" cy="442.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="500.6" cy="419.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="447.1" cy="395.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="393.5" cy="371.9" r="1.5" fill="#B4B2A9"/>
+<circle cx="340.0" cy="348.3" r="1.5" fill="#B4B2A9"/>
+<circle cx="286.5" cy="371.9" r="1.5" fill="#B4B2A9"/>
+<circle cx="232.9" cy="395.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="179.4" cy="419.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="125.8" cy="442.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="43.5" cy="300.0" r="1.5" fill="#B4B2A9"/>
+<circle cx="62.0" cy="267.9" r="1.5" fill="#B4B2A9"/>
+<circle cx="80.5" cy="235.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="99.1" cy="203.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="117.6" cy="171.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="136.1" cy="139.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="154.7" cy="107.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="173.2" cy="75.3" r="1.5" fill="#B4B2A9"/>
+<circle cx="191.7" cy="43.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="59.9" cy="328.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="85.7" cy="295.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="111.4" cy="263.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="137.1" cy="230.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="162.8" cy="197.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="178.2" cy="159.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="193.7" cy="120.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="209.2" cy="81.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="224.7" cy="43.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="76.4" cy="357.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="109.3" cy="323.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="141.9" cy="290.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="175.0" cy="257.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="207.9" cy="223.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="220.3" cy="178.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="232.8" cy="133.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="245.2" cy="88.3" r="1.5" fill="#B4B2A9"/>
+<circle cx="257.6" cy="43.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="92.9" cy="385.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="132.9" cy="351.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="173.0" cy="317.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="213.0" cy="283.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="253.1" cy="249.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="262.4" cy="198.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="271.8" cy="146.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="281.2" cy="94.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="290.6" cy="43.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="109.4" cy="414.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="156.6" cy="379.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="203.8" cy="345.0" r="1.5" fill="#B4B2A9"/>
+<circle cx="251.0" cy="310.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="298.2" cy="275.9" r="1.5" fill="#B4B2A9"/>
+<circle cx="304.5" cy="217.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="310.9" cy="159.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="317.2" cy="101.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="323.5" cy="43.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="488.3" cy="43.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="506.8" cy="75.3" r="1.5" fill="#B4B2A9"/>
+<circle cx="525.3" cy="107.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="543.9" cy="139.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="562.4" cy="171.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="580.9" cy="203.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="599.5" cy="235.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="618.0" cy="267.9" r="1.5" fill="#B4B2A9"/>
+<circle cx="636.5" cy="300.0" r="1.5" fill="#B4B2A9"/>
+<circle cx="455.3" cy="43.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="470.8" cy="81.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="486.3" cy="120.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="501.8" cy="159.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="517.2" cy="197.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="542.9" cy="230.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="568.6" cy="263.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="594.3" cy="295.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="620.1" cy="328.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="422.4" cy="43.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="434.8" cy="88.3" r="1.5" fill="#B4B2A9"/>
+<circle cx="447.6" cy="133.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="459.7" cy="178.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="472.1" cy="223.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="505.0" cy="257.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="537.8" cy="290.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="570.7" cy="323.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="603.6" cy="357.1" r="1.5" fill="#B4B2A9"/>
+<circle cx="389.4" cy="43.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="398.8" cy="94.9" r="1.5" fill="#B4B2A9"/>
+<circle cx="408.2" cy="146.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="417.6" cy="198.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="426.9" cy="249.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="467.0" cy="283.8" r="1.5" fill="#B4B2A9"/>
+<circle cx="507.0" cy="317.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="547.1" cy="351.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="587.1" cy="385.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="356.5" cy="43.2" r="1.5" fill="#B4B2A9"/>
+<circle cx="362.8" cy="101.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="369.1" cy="159.5" r="1.5" fill="#B4B2A9"/>
+<circle cx="375.5" cy="217.7" r="1.5" fill="#B4B2A9"/>
+<circle cx="381.8" cy="275.9" r="1.5" fill="#B4B2A9"/>
+<circle cx="429.0" cy="310.4" r="1.5" fill="#B4B2A9"/>
+<circle cx="476.2" cy="345.0" r="1.5" fill="#B4B2A9"/>
+<circle cx="523.4" cy="379.6" r="1.5" fill="#B4B2A9"/>
+<circle cx="570.6" cy="414.1" r="1.5" fill="#B4B2A9"/>
+<path d="M 191.7 556.8 L 228.8 556.8 L 265.9 556.8 L 302.9 556.8 L 340.0 556.8 L 377.1 556.8 L 414.1 556.8 L 451.2 556.8 L 488.3 556.8" fill="none" stroke="#E24B4A" stroke-width="2.4" opacity="1.0" stroke-linecap="round"/>
+<path d="M 191.7 43.2 L 173.2 75.3 L 154.7 107.4 L 136.1 139.5 L 117.6 171.6 L 99.1 203.7 L 80.5 235.8 L 62.0 267.9 L 43.5 300.0" fill="none" stroke="#E24B4A" stroke-width="2.4" opacity="1.0" stroke-linecap="round"/>
+<path d="M 636.5 300.0 L 618.0 267.9 L 599.5 235.8 L 580.9 203.7 L 562.4 171.6 L 543.9 139.5 L 525.3 107.4 L 506.8 75.3 L 488.3 43.2" fill="none" stroke="#E24B4A" stroke-width="2.4" opacity="1.0" stroke-linecap="round"/>
+<text x="179.2" y="578.4" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="218.9" y="579.7" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="258.9" y="580.8" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="299.4" y="581.5" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="340.0" y="581.8" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">5</text>
+<text x="380.6" y="581.5" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">6</text>
+<text x="421.1" y="580.8" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="461.1" y="579.7" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">8</text>
+<text x="500.8" y="578.4" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">9</text>
+<text x="179.2" y="21.6" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="158.3" y="55.2" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="137.3" y="89.4" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="116.5" y="124.0" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="96.0" y="159.1" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">5</text>
+<text x="75.9" y="194.4" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">6</text>
+<text x="56.3" y="229.8" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="37.2" y="265.0" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">8</text>
+<text x="18.5" y="300.0" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">9</text>
+<text x="661.5" y="300.0" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">1</text>
+<text x="642.8" y="265.0" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">2</text>
+<text x="623.7" y="229.8" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">3</text>
+<text x="604.1" y="194.4" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">4</text>
+<text x="584.0" y="159.1" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">5</text>
+<text x="563.5" y="124.0" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">6</text>
+<text x="542.7" y="89.4" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">7</text>
+<text x="521.7" y="55.2" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">8</text>
+<text x="500.8" y="21.6" fill="#A32D2D" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">9</text>
+<text x="181.2" y="575.0" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">E</text>
+<text x="163.0" y="545.3" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">D</text>
+<text x="144.7" y="515.3" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">C</text>
+<text x="126.4" y="484.9" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">B</text>
+<text x="108.4" y="454.3" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">A</text>
+<text x="181.2" y="25.0" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">O</text>
+<text x="216.1" y="24.0" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">N</text>
+<text x="251.2" y="23.2" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">M</text>
+<text x="286.6" y="22.6" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">L</text>
+<text x="322.2" y="22.2" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">K</text>
+<text x="657.5" y="300.0" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">J</text>
+<text x="640.9" y="330.7" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">I</text>
+<text x="624.1" y="361.5" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">H</text>
+<text x="606.9" y="392.5" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">G</text>
+<text x="589.5" y="423.4" fill="#185FA5" font-size="12.5" font-weight="500" text-anchor="middle" dominant-baseline="central">F</text>
+<path d="M 76.4 357.1 L 109.3 323.7 L 141.9 290.2 L 175.0 257.1 L 207.9 223.7 L 220.3 178.6 L 232.8 133.5 L 245.2 88.3 L 257.6 43.2" fill="none" stroke="#639922" stroke-width="3.0" opacity="1.0" stroke-linecap="round"/>
+<circle cx="207.9" cy="223.7" r="5" fill="#3B6D11"/>
+<text x="193.9" y="241.7" fill="#3B6D11" font-size="12.5" font-weight="500" text-anchor="end">行线在此折 29.2°</text>
+<rect x="40" y="16" width="600" height="64" rx="8" fill="#F1EFE8" stroke="#B4B2A9" stroke-width="0.5"/>
+<text x="52" y="42" fill="#A32D2D" font-size="12.5" font-weight="500">红数字＝三方底边数字 1–9（图1＝车 … 图5＝帅 … 图9＝车）</text>
+<text x="52" y="58" fill="#185FA5" font-size="12.5" font-weight="500">蓝字母＝行标：魏行1＝E、吴行1＝O、蜀行1＝J（贴在各行「列9」端）</text>
+<text x="52" y="74" fill="#3B6D11" font-size="12.5" font-weight="500">绿线＝吴行M（行3）；行1（E/J/O）是直线，行2–5 在列5 处折角 16.3°/29.2°/39.4°/47.6°</text>
+<text x="340" y="620" fill="#5F5E5A" font-size="12" text-anchor="middle">老师的坐标＝行字母＋图中数字：吴O1＝吴行1第9列；吴M6＝吴行3第4列</text>
+</svg>

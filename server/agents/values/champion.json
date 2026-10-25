@@ -1,0 +1,39 @@
+{
+ "name": "mlp_512_256",
+ "hidden": [
+  512,
+  256
+ ],
+ "epochs": 400,
+ "batch": 16384,
+ "auc": 0.639,
+ "acc": 0.631,
+ "auc_by_src": {
+  "sp2.parts": 0.5566,
+  "selfplay_150k.parts": 0.6537
+ },
+ "secs": 518.6,
+ "bad_pairs": 0,
+ "cmp_pairs": 363,
+ "samples": 11105318,
+ "round": 1,
+ "file": "value_mlp.json",
+ "bytes": 3539592,
+ "mtime": "2026-10-02 13:33:18",
+ "tag": "",
+ "auc_reload": 0.6467,
+ "yard": {
+  "ordi": 234,
+  "wins": 160,
+  "games": 300,
+  "seed0": 2200000,
+  "tl": 5.0,
+  "depth": 1,
+  "maxply": 300,
+  "src": "ab_yard_value_mlp_frozen.json"
+ },
+ "note": "yard verdict: current value_mlp(v1333) ordi=234 > v1233 ordi=213; 5/5 seed batches v35>none 641:378",
+ "md5": "8b32d63bc0830950a8f996950c8d8d43",
+ "saved_at": "2026-10-02 16:36:19",
+ "val": "232片/1,196,657行/全部目录/88bde771"
+}

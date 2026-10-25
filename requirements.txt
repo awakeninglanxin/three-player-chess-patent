@@ -1,0 +1,19 @@
+# 三人象棋 · 专利版运行依赖（标准库之外只有这两个）
+#
+# 本地双击「启动对弈台.bat」用的就是本机已装好的这两样：
+#     numba 0.65.0 + numpy 2.4.3（Python 3.12.2）
+#
+# 为什么钉死版本（摘自 requirements_cloud.txt，那边有一整套版本纪律）：
+#   · numba 0.65.0 —— engine/nb_core.py 里 20+ 个 njit 内核是**双实现**（Python 版 + JIT 版），
+#     由 tests/_verify_numba_parity.py 逐位对拍。换版本可能改变浮点规约顺序 ⇒ 两边不再逐位一致。
+#   · numpy 2.4.3   —— numba 0.65 对 numpy 有硬性区间，且 features_dxf 的向量化结果要逐位可比。
+#
+# 装不上 numba 也能跑：agents/search_bot.py 里 `from engine import nb_core` 包在 try/except 里，
+# 缺 numba 会静默降级到纯 Python 搜索（实测 3~4 万节点/秒，JIT 版约 43 万），棋力口径不变、只是慢。
+# 但 **numpy 是硬依赖**（search_bot.py 顶部就 import），必须有。
+#
+# torch 不在这里：value_net 默认关闭（agents.json 的 value_net.enabled = false），
+# 没开就绝不 import torch。要用价值网络请自行按 requirements_cloud.txt 的说明单独装。
+
+numpy==2.4.3
+numba==0.65.0
